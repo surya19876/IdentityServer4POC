@@ -1,0 +1,11 @@
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\bin\Debug\netcoreapp2.0\IdentityServerPOC3.deps.json
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\bin\Debug\netcoreapp2.0\IdentityServerPOC3.runtimeconfig.json
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\bin\Debug\netcoreapp2.0\IdentityServerPOC3.runtimeconfig.dev.json
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\bin\Debug\netcoreapp2.0\IdentityServerPOC3.dll
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\obj\Debug\netcoreapp2.0\IdentityServerPOC3.csprojAssemblyReference.cache
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\obj\Debug\netcoreapp2.0\IdentityServerPOC3.csproj.CoreCompileInputs.cache
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\obj\Debug\netcoreapp2.0\IdentityServerPOC3.AssemblyInfoInputs.cache
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\obj\Debug\netcoreapp2.0\IdentityServerPOC3.AssemblyInfo.cs
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\bin\Debug\netcoreapp2.0\IdentityServerPOC3.pdb
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\obj\Debug\netcoreapp2.0\IdentityServerPOC3.dll
+D:\My learnings\API development\IdentityServerPOC3\IdentityServerPOC3\obj\Debug\netcoreapp2.0\IdentityServerPOC3.pdb
